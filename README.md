@@ -2,12 +2,27 @@
 
 O projeto de análise das ocorrências de trote ao SAMU em Pernambuco, tem como objetivo o monitoramento e a análise de dados por meio do Tableau, com informações fornecidas pela Prefeitura do Recife.
 
-Dados abertos disponibilizados em: [Dados Recife](http://dados.recife.pe.gov.br/dataset/servico-de-atendimento-movel-de-urgencia-samu-2024/resource/30b3c367-a7ec-4153-9ed7-03876eae8353)
+Dados abertos Recife (Serviço de Atendimento Móvel de Urgência - SAMU)
+[2024](http://dados.recife.pe.gov.br/dataset/servico-de-atendimento-movel-de-urgencia-samu-2025/), [2024](http://dados.recife.pe.gov.br/dataset/servico-de-atendimento-movel-de-urgencia-samu-2024), [2023](http://dados.recife.pe.gov.br/dataset/servico-de-atendimento-movel-de-urgencia-samu-2023)
 
 ## Visualização e análise do relatório
 
-O município do Recife, concentra o maior número de trotes registrados pelo SAMU. Esses episódios ocorrem com maior intensidade nos meses de maio, junho e dezembro, possivelmente relacionados ao período de férias escolares e festividades.
+Se você precisasse combater trotes, quais estratégias adotaria?
 
-Esse cenário reforça a importância de ações de conscientização para reduzir o número de trotes e evitar o desperdício de recursos públicos essenciais. O relatório aponta que essas iniciativas devem ser planejadas com foco nos períodos do ano e regiões com maior incidência de ocorrências, a fim de otimizar os custos de marketing e potencializar o impacto das campanhas.
+Um bom começo é analisar dados. O SAMU de Pernambuco categoriza os atendimentos de trotes, fornecendo informações detalhadas sobre o local e o período em que ocorrem.
 
-Projeto no Tableau Public: [Trotes](https://public.tableau.com/app/profile/thais.nicole.rodrigues7737/viz/Trotes/Painel1#1)
+O Munícipio de Recife lidera com 143 trotes, seguido por Jaboatão dos Guararapes (37), Olinda (33) e Paulista (29). Esses episódios ocorrem com maior intensidade nos meses de maio, junho e janeiro, possivelmente relacionados ao período de férias escolares e festividades.
+
+Além disso, a análise da linha de tendência revela um aumento nos trotes, especialmente no período da tarde e à noite, sendo a maioria originada de chamadas residenciais.
+
+Esses insights reforçam a necessidade de ações de conscientização em áreas e períodos críticos, evitando assim o desperdício de recursos públicos essenciais e melhorando a eficiência do atendimento.
+
+- Projeto no Tableau Public: [Trotes](https://public.tableau.com/app/profile/thais.nicole.rodrigues7737/viz/Trotes/Painel1#1)
+
+![Projeto de Trotes SAMU com Tableau](visualizacoes/TrotesSAMU.png)
+
+## Tecnologias Utilizadas
+- **Tableau** (Visualização de dados)
+
+## Estrutura de pastas
+- **visualizacoes/**  Guarda gráficos e dashboards gerados.
