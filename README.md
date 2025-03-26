@@ -19,7 +19,7 @@ Esses insights reforçam a necessidade de ações de conscientização em áreas
 
 - Projeto no Tableau Public: [Trotes](https://public.tableau.com/app/profile/thais.nicole.rodrigues7737/viz/Trotes/Painel1#1)
 
-![Projeto de Trotes SAMU com Tableau](visualizacoes/TrotesSAMU.png)
+![Projeto de Trotes SAMU com Tableau](visualizacoes/01TrotesSAMU.png)
 
 ## Tecnologias Utilizadas
 - **Tableau** (Visualização de dados)
